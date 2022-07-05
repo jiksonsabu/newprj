@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "newp"
+  "defaultProject": "newp",
+  "cli": {
+    "analytics": "9af9c7ef-98a8-435a-b398-78a6756b8894"
+  }
 }
